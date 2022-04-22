@@ -1,10 +1,11 @@
 import React from "react";
+import Header from "../../components/header";
 
 
 function Home() {
     return (
         <div>
-            <p>This page has been reached.</p>
+            <Header/>
         </div>
     )
 }
