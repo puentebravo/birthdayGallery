@@ -5,7 +5,7 @@ import ImageCard from "./imgCard";
 
 function GalleryContainer() {
     return (
-        <section className="grid grid-cols-3 gap-6 ">
+        <section className="flex flex-col lg:grid lg:grid-cols-3 lg:gap-6 ">
             {imgList.map( img => {
                return <ImageCard src={img.src} alt={img.alt} caption={img.caption}/>
             })}
