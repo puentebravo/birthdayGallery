@@ -72,7 +72,7 @@ const imgList: imgData[] = [
     },
     {
         src: spiralCube,
-        caption: "Colors spiraling into eternity",
+        caption: "Colors spiraling into beyond",
         alt: "Colors spiraling behind a blue cube"
     },
     {
