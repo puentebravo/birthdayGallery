@@ -32,8 +32,8 @@ const imgList: imgData[] = [
     },
     {
         src: april,
-        caption: "A Self Portrait",
-        alt: "A self portrait of the artist"
+        caption: "Portrait of Senator Liz Krueger",
+        alt: "An artistic portrait of New York State Senator Liz Krueger"
     },
     {
         src: christmas,
