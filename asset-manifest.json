@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4254fe6c.css",
+    "main.js": "/static/js/main.c7a0d354.js",
+    "static/media/gratitude.jpg": "/static/media/gratitude.d82791133956ae47056c.jpg",
+    "static/media/mayaSwing.jpg": "/static/media/mayaSwing.9ab351ffd4020536e358.jpg",
+    "static/media/vanGogh.jpg": "/static/media/vanGogh.c1330f5244327295038e.jpg",
+    "static/media/runningTime.jpg": "/static/media/runningTime.915340056729e317936b.jpg",
+    "static/media/ruby1.jpg": "/static/media/ruby1.5a252e6e807620745ec4.jpg",
+    "static/media/abstractColors.jpg": "/static/media/abstractColors.f4029414507937a600ad.jpg",
+    "static/media/kfiorito.jpg": "/static/media/kfiorito.0468070d223d38f122ad.jpg",
+    "static/media/april.jpg": "/static/media/april.255518cbfc90b0c7bdc9.jpg",
+    "static/media/spiralCube.jpg": "/static/media/spiralCube.9dc3b508f0ec84acac6c.jpg",
+    "static/media/ruby2.jpg": "/static/media/ruby2.0ba3690d4a23c50644dd.jpg",
+    "static/media/christmas.jpg": "/static/media/christmas.2fbc1490b0080b89b0e5.jpg",
+    "static/media/zoom.jpg": "/static/media/zoom.02210befbe9ad8887d0e.jpg",
+    "static/media/coffee.jpg": "/static/media/coffee.4fea1a0bab270c025026.jpg",
+    "static/media/affirmations.jpg": "/static/media/affirmations.6399d0896151fc0814ef.jpg",
+    "service-worker.js": "/service-worker.js",
+    "index.html": "/index.html",
+    "main.4254fe6c.css.map": "/static/css/main.4254fe6c.css.map",
+    "main.c7a0d354.js.map": "/static/js/main.c7a0d354.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4254fe6c.css",
+    "static/js/main.c7a0d354.js"
+  ]
+}
