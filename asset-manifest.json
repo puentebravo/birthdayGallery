@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/birthdayGallery/static/css/main.4254fe6c.css",
-    "main.js": "/birthdayGallery/static/js/main.8fef8174.js",
+    "main.css": "/birthdayGallery/static/css/main.106f1d38.css",
+    "main.js": "/birthdayGallery/static/js/main.88be06ec.js",
     "static/media/gratitude.jpg": "/birthdayGallery/static/media/gratitude.d82791133956ae47056c.jpg",
     "static/media/mayaSwing.jpg": "/birthdayGallery/static/media/mayaSwing.9ab351ffd4020536e358.jpg",
     "static/media/vanGogh.jpg": "/birthdayGallery/static/media/vanGogh.c1330f5244327295038e.jpg",
@@ -18,11 +18,11 @@
     "static/media/affirmations.jpg": "/birthdayGallery/static/media/affirmations.6399d0896151fc0814ef.jpg",
     "service-worker.js": "/birthdayGallery/service-worker.js",
     "index.html": "/birthdayGallery/index.html",
-    "main.4254fe6c.css.map": "/birthdayGallery/static/css/main.4254fe6c.css.map",
-    "main.8fef8174.js.map": "/birthdayGallery/static/js/main.8fef8174.js.map"
+    "main.106f1d38.css.map": "/birthdayGallery/static/css/main.106f1d38.css.map",
+    "main.88be06ec.js.map": "/birthdayGallery/static/js/main.88be06ec.js.map"
   },
   "entrypoints": [
-    "static/css/main.4254fe6c.css",
-    "static/js/main.8fef8174.js"
+    "static/css/main.106f1d38.css",
+    "static/js/main.88be06ec.js"
   ]
 }
