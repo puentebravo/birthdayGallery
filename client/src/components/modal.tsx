@@ -27,7 +27,7 @@ function Modal(props: modalOpts) {
                     <h3 className="modal-title font-cursive">A Closer Look</h3>
                 </div>
                 <div className="modal-body">
-                    <img className="h-fit w-fit mx-auto"  src={props.imgSrc} alt={props.imgAlt}/>
+                    <img className="w-fit mx-auto"  src={props.imgSrc} alt={props.imgAlt}/>
                     <figcaption className="text-white text-center mt-2">{props.imgCaption}</figcaption>
                 </div>
                 <div className="modal-footer">

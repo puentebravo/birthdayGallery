@@ -1,13 +1,11 @@
 import abstractColor from "../assets/images/abstractColors.jpg";
-import affirmations from "../assets/images/affirmations.jpg"
+
 import april from "../assets/images/april.jpg"
 import christmas from "../assets/images/christmas.jpg"
 import coffee from "../assets/images/coffee.jpg";
 import gratitude from "../assets/images/gratitude.jpg"
 import kFiorito from "../assets/images/kfiorito.jpg"
 import mayaSwing from "../assets/images/mayaSwing.jpg"
-import ruby1 from "../assets/images/ruby1.jpg"
-import ruby2 from "../assets/images/ruby2.jpg"
 import spiralCube from "../assets/images/spiralCube.jpg"
 import vanGogh from "../assets/images/vanGogh.jpg"
 import zoom from "../assets/images/zoom.jpg"
@@ -24,11 +22,6 @@ const imgList: imgData[] = [
         src: abstractColor,
         caption: "Abstract Colors, flowing",
         alt: "Abstract colors, flowing around the page"
-    },
-    {
-        src: affirmations,
-        caption: "Powerful affirmations",
-        alt: "Words of affirmation drawn on the outline of a hand"
     },
     {
         src: april,
@@ -59,16 +52,6 @@ const imgList: imgData[] = [
         src: mayaSwing,
         caption: "Maya Caballero on her iconic swing",
         alt: "The folk rock artist Maya Caballero performing on her iconic floating swingset"
-    },
-    {
-        src: ruby1,
-        caption: "A tale of the past, Part 1",
-        alt: "A tale from April's past, part 1"
-    },
-    {
-        src: ruby2,
-        caption: "A tale of the past, Part 2",
-        alt: "A tale from april's past, part 2"
     },
     {
         src: spiralCube,
