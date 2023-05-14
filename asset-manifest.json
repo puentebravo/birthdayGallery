@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/birthdayGallery/static/css/main.4145b252.css",
-    "main.js": "/birthdayGallery/static/js/main.1614a7ee.js",
+    "main.js": "/birthdayGallery/static/js/main.18f0578a.js",
     "static/media/gratitude.jpg": "/birthdayGallery/static/media/gratitude.d82791133956ae47056c.jpg",
     "static/media/sunrise.jpg": "/birthdayGallery/static/media/sunrise.506fa1adf59ba73497fb.jpg",
     "static/media/mayaSwing.jpg": "/birthdayGallery/static/media/mayaSwing.9ab351ffd4020536e358.jpg",
@@ -18,10 +18,10 @@
     "service-worker.js": "/birthdayGallery/service-worker.js",
     "index.html": "/birthdayGallery/index.html",
     "main.4145b252.css.map": "/birthdayGallery/static/css/main.4145b252.css.map",
-    "main.1614a7ee.js.map": "/birthdayGallery/static/js/main.1614a7ee.js.map"
+    "main.18f0578a.js.map": "/birthdayGallery/static/js/main.18f0578a.js.map"
   },
   "entrypoints": [
     "static/css/main.4145b252.css",
-    "static/js/main.1614a7ee.js"
+    "static/js/main.18f0578a.js"
   ]
 }
