@@ -10,6 +10,8 @@ import spiralCube from "../assets/images/spiralCube.jpg"
 import vanGogh from "../assets/images/vanGogh.jpg"
 import zoom from "../assets/images/zoom.jpg"
 import runningTime from "../assets/images/runningTime.jpg"
+import sunrise from "../assets/images/sunrise.jpg"
+import herself from "../assets/images/herself.jpg"
 
 interface imgData {
     src: string,
@@ -71,6 +73,16 @@ const imgList: imgData[] = [
     {
         src: zoom,
         caption: "Near or far, we all stick together",
+        alt: "A drawing of a zoom video call"
+    },
+    {
+        src: herself,
+        caption: "A self portrait of the artist",
+        alt: "A color drawing of the artist, April Sandmeyer"
+    },
+    {
+        src: sunrise,
+        caption: "Sunrise on the water",
         alt: "A drawing of a zoom video call"
     },
 ]
